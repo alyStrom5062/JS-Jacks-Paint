@@ -1,6 +1,12 @@
 body{
+  background: #888;
   font-family: 'Zen Kaku Gothic Antique', sans-serif;
  }
+
+ div:first-child {
+    text-align: center;
+ }
+
  .dim{
     opacity: 0.1555;
   }
